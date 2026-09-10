@@ -157,9 +157,5 @@ _小彩蛋：我喜欢在空闲时间啃那些让人头秃的编码难题。_
 ---
 
 <p align="right">
-  <span style="font-family: 'STKaiti', 'KaiTi', 'Kaiti SC', '楷体', '华文楷体', 'LiSu', cursive; font-size: 1.15em; color: #D4A017;">
-    醉后不知天在水，满船清梦压星河。
-  </span>
-  <br />
-  <span style="font-size: 0.85em; color: #8B949E;">—— 唐珙《题龙阳县青草湖》</span>
+  <img src="assets/poem.svg" alt="醉后不知天在水，满船清梦压星河。" />
 </p>
