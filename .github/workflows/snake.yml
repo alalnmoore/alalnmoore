@@ -27,10 +27,12 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          # color_dots：无贡献 → 最高贡献共 5 个颜色，第 1 个是「无贡献」格子（深黑）
+          # color_dots：无贡献 → 最高贡献共 5 个颜色
+          #   第 1 个是「无贡献」格子：灰色 #30363D，能看出热力图网格形状
+          #   后面 4 个由深绿到亮绿递进，贡献越多越亮
           # color_snake：贪吃蛇本体颜色
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#00CFFF&color_dots=#0D1117,#01311F,#034525,#0F6D31,#00C647
+            dist/github-contribution-grid-snake.svg?color_snake=#00CFFF&color_dots=#30363D,#0E4429,#006D32,#26A641,#39D353
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
