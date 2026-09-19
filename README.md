@@ -5,7 +5,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=alalnmoore&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/alalnmoore)
 [![Followers](https://img.shields.io/github/followers/alalnmoore?label=Followers&style=for-the-badge&logo=github&color=0e75b6)](https://github.com/alalnmoore?tab=followers)
 [![GitHub](https://img.shields.io/badge/GitHub-alalnmoore-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alalnmoore)
-[![Email](https://img.shields.io/badge/Email-2377063105%40qq.com-D14836?style=for-the-badge&logo=qq&logoColor=white)](mailto:2377063105@qq.com)
+[![Email](https://img.shields.io/badge/Email-alanmoore5120%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alanmoore5120@gmail.com)
 
 </div>
 
