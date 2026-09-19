@@ -1,13 +1,11 @@
 <div align="center">
 
-# 董柏杨 · alalnmoore
+<img width="100%" src="assets/header.svg" alt="董柏杨 · alalnmoore · Java 后端 & Spring AI 应用开发 · Python & LangGraph 智能体" />
 
-**Java 后端 & Spring AI 应用开发** · **Python & LangGraph 智能体**
-
-先把原理搞懂，再把代码写干净。
-
-[![Profile Views](https://komarev.com/ghpvc/?username=alalnmoore&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/alalnmoore)
-[![Followers](https://img.shields.io/github/followers/alalnmoore?label=Followers&style=flat-square&logo=github&color=0e75b6)](https://github.com/alalnmoore?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=alalnmoore&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/alalnmoore)
+[![Followers](https://img.shields.io/github/followers/alalnmoore?label=Followers&style=for-the-badge&logo=github&color=0e75b6)](https://github.com/alalnmoore?tab=followers)
+[![GitHub](https://img.shields.io/badge/GitHub-alalnmoore-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alalnmoore)
+[![Email](https://img.shields.io/badge/Email-2377063105%40qq.com-D14836?style=for-the-badge&logo=qq&logoColor=white)](mailto:2377063105@qq.com)
 
 </div>
 
@@ -23,7 +21,7 @@
 <div align="center">
 
 **Java 后端**<br>
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Spring AI](https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![MyBatis-Plus](https://img.shields.io/badge/MyBatis--Plus-1E90FF?style=for-the-badge) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Spring AI](https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![MyBatis-Plus](https://img.shields.io/badge/MyBatis--Plus-1E90FF?style=for-the-badge) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
 **AI 应用**<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge) ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white) ![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white)
@@ -59,9 +57,6 @@
 </div>
 
 <div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-alalnmoore-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alalnmoore)
-[![Email](https://img.shields.io/badge/Email-2377063105%40qq.com-D14836?style=flat-square&logo=qq&logoColor=white)](mailto:2377063105@qq.com)
 
 <sub>个人项目默认 MIT 许可（见 <a href="./LICENSE">LICENSE</a>）· 空闲时喜欢啃那些让人头秃的编码难题</sub>
 

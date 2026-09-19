@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="100" viewBox="0 0 900 100">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="96" viewBox="0 0 900 96" role="img" aria-label="醉后不知天在水，满船清梦压星河。">
   <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="poemGrad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#FF6B6B"/>
       <stop offset="25%" stop-color="#FFD93D"/>
       <stop offset="50%" stop-color="#6BCB77"/>
@@ -8,5 +8,7 @@
       <stop offset="100%" stop-color="#B983FF"/>
     </linearGradient>
   </defs>
-  <text x="450" y="64" text-anchor="middle" font-family="'STKaiti','KaiTi','Kaiti SC','楷体','华文楷体','LiSu',cursive" font-size="48" letter-spacing="2" fill="url(#grad)">醉后不知天在水，满船清梦压星河。</text>
+  <rect width="900" height="96" rx="18" fill="#0D1117"/>
+  <rect x="1" y="1" width="898" height="94" rx="17" fill="none" stroke="#30363D" stroke-width="2"/>
+  <text x="450" y="62" text-anchor="middle" font-family="'STKaiti','KaiTi','Kaiti SC','楷体','华文楷体',serif" font-size="48" letter-spacing="2" fill="url(#poemGrad)">醉后不知天在水，满船清梦压星河。</text>
 </svg>

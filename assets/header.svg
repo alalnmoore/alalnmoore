@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="212" viewBox="0 0 900 212" role="img" aria-label="董柏杨 alalnmoore · Java 后端 &amp; Spring AI 应用开发 · Python &amp; LangGraph 智能体">
+  <defs>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00CFFF"/>
+      <stop offset="46%" stop-color="#6BCB77"/>
+      <stop offset="100%" stop-color="#B983FF"/>
+    </linearGradient>
+    <linearGradient id="barGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00CFFF"/>
+      <stop offset="100%" stop-color="#B983FF"/>
+    </linearGradient>
+    <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse">
+      <rect width="7" height="7" rx="2" fill="#30363D" opacity="0.45"/>
+    </pattern>
+    <radialGradient id="vignette" cx="50%" cy="50%" r="68%">
+      <stop offset="0%" stop-color="#0D1117" stop-opacity="0.96"/>
+      <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="900" height="212" rx="18" fill="#0D1117"/>
+  <rect width="900" height="212" rx="18" fill="url(#dots)"/>
+  <rect width="900" height="212" rx="18" fill="url(#vignette)"/>
+  <rect x="1" y="1" width="898" height="210" rx="17" fill="none" stroke="#30363D" stroke-width="2"/>
+
+  <rect x="414" y="24" width="72" height="4" rx="2" fill="url(#barGrad)"/>
+
+  <text x="450" y="96" text-anchor="middle" fill="url(#nameGrad)"
+        font-family="'PingFang SC','Microsoft YaHei','Hiragino Sans GB','Noto Sans SC',-apple-system,'Segoe UI',sans-serif"
+        font-size="70" font-weight="700" letter-spacing="4">董柏杨</text>
+
+  <text x="450" y="128" text-anchor="middle" fill="#8B949E"
+        font-family="-apple-system,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif"
+        font-size="21" letter-spacing="3">@alalnmoore</text>
+
+  <text x="450" y="168" text-anchor="middle" fill="#C9D1D9"
+        font-family="-apple-system,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif"
+        font-size="22">Java 后端 &amp; Spring AI 应用开发　·　Python &amp; LangGraph 智能体</text>
+
+  <text x="450" y="196" text-anchor="middle" fill="#7D8590"
+        font-family="-apple-system,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif"
+        font-size="18">先把原理搞懂，再把代码写干净</text>
+</svg>
