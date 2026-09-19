@@ -54,7 +54,7 @@
 
 <br>
 
-<img width="100%" src="https://raw.githubusercontent.com/alalnmoore/alalnmoore/output/github-contribution-grid-snake.svg?v=3" alt="贡献动画 · 最近 365 天" />
+<img width="100%" src="https://raw.githubusercontent.com/alalnmoore/alalnmoore/output/github-contribution-grid-snake.svg?v=4" alt="贡献动画 · 最近 365 天" />
 
 </div>
 
