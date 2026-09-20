@@ -1,6 +1,12 @@
 <div align="center">
 
-<img width="100%" src="assets/header.svg" alt="董柏杨 (@alanmoore) · Java 后端 & Spring AI 应用开发 · Python & LangGraph 智能体" />
+<img width="100%" src="assets/pelican.svg" alt="鹈鹕骑自行车" />
+
+### 董柏杨
+
+**@alanmoore** · Java 后端 & Spring AI 应用开发 · Python & LangGraph 智能体
+
+先把原理搞懂，再把代码写干净。
 
 [![Profile Views](https://komarev.com/ghpvc/?username=alalnmoore&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/alalnmoore)
 [![Followers](https://img.shields.io/github/followers/alalnmoore?label=Followers&style=for-the-badge&logo=github&color=0e75b6)](https://github.com/alalnmoore?tab=followers)
